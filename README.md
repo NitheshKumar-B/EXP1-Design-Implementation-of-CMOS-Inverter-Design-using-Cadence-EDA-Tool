@@ -1,4 +1,4 @@
-Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
+EX.NO: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
 
 Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
@@ -6,6 +6,11 @@ To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+Circuit Diagram:
+ 
+ ![IMG-20241115-WA0008](https://github.com/user-attachments/assets/2620c499-d1c4-429a-bfce-d25dab4d34e3)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -93,12 +98,11 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![Screenshot 2024-08-28 125704](https://github.com/user-attachments/assets/8423465b-c880-4d3f-a85c-12772266d398)
 
 
 For Transient Analysis Settings and Output
+ ![Screenshot 2024-08-28 125704](https://github.com/user-attachments/assets/8423465b-c880-4d3f-a85c-12772266d398)
  
- ![Screenshot 2024-08-28 125734](https://github.com/user-attachments/assets/3e64dfea-1fa4-4f7c-8e29-3c2859914df4)
  
 
 
@@ -108,6 +112,8 @@ For Transient Analysis Settings and Output
 
 
  For DC Analysis Settings and Output
+ 
+ ![Screenshot 2024-08-28 125734](https://github.com/user-attachments/assets/3e64dfea-1fa4-4f7c-8e29-3c2859914df4)
  ![Screenshot 2024-08-28 125526](https://github.com/user-attachments/assets/094cfc52-561f-44dd-a85c-1b6cfcf92644)
 
 

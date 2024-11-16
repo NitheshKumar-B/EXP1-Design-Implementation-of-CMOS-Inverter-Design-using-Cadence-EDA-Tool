@@ -1,11 +1,16 @@
 EX.NO: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
 
+
 Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
 
+
 Tools Required:
+
 •	Personal Computer
+
 •	Cadence Virtuoso Software
+
 
 Circuit Diagram:
  
@@ -18,7 +23,8 @@ S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIM
 2.	Type the following commands as follows and press enter.
 •	csh
 •	source /cadence/install/cshrc
-•	virtuoso 
+•	virtuoso
+
 Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
@@ -32,6 +38,7 @@ v.	Analog simulation by spectre
 
 
 i)	Procedure for Creating New Library.
+
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
@@ -51,6 +58,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+
 ![Screenshot 2024-08-28 130135](https://github.com/user-attachments/assets/be67e1e7-ff6b-4f6e-b399-08c82c441b7e)
 
 
@@ -98,14 +106,16 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+
 ![Screenshot 2024-11-16 140104](https://github.com/user-attachments/assets/ef9f5764-2967-4f3b-98aa-4a03c0eee293)
 
 
 
 For Transient Analysis Settings and Output
+
 ![Screenshot 2024-11-16 140122](https://github.com/user-attachments/assets/8659d027-d32a-457b-8607-17237260c73a)
 
- ![Screenshot 2024-08-28 125704](https://github.com/user-attachments/assets/8423465b-c880-4d3f-a85c-12772266d398)
+![Screenshot 2024-08-28 125704](https://github.com/user-attachments/assets/8423465b-c880-4d3f-a85c-12772266d398)
  
  
 
@@ -118,6 +128,7 @@ For Transient Analysis Settings and Output
  For DC Analysis Settings and Output
  
  ![Screenshot 2024-08-28 125734](https://github.com/user-attachments/assets/3e64dfea-1fa4-4f7c-8e29-3c2859914df4)
+ 
  ![Screenshot 2024-08-28 125526](https://github.com/user-attachments/assets/094cfc52-561f-44dd-a85c-1b6cfcf92644)
 
 

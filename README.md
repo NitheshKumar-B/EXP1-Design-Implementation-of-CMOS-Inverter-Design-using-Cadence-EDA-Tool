@@ -176,6 +176,9 @@ iv)	Creating the new test cell view
 
  
 
+
+
+
 ## Result:
 
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
